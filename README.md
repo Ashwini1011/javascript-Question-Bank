@@ -1,4 +1,4 @@
-# javascript-Question-Banl
+# javascript-Question-Bank
 
 #Que 1 Create a function which will let you know whether the value is truthy or false
 
